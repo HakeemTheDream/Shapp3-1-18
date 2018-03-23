@@ -1,0 +1,9 @@
+Additions to Homepage.java:
+-log in button will now take you to Login page regardless of whether or not you have been logged in but signed out, or whether you skipped sign in
+-help button will take the user to the help page, even if they are not logged in
+
+NEW PAGE CREATED:
+Help page:
+-user will later be able to enter a question and click the sign in button(will be changed)
+-user will later be able to view frequently asked questions by clicking the "frequently asked questions" button
+-no funtionality as of yet, @Q, I'm not sure what you used to make the sign in button so feel free to edit it to say "get help" or let me know the specific font/colors you used to make the buttons
